@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erdogan und die Türkei</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Erdogan und die Türkei</h1>
+    </header>
+    <main>
+        <p>Hier können Sie Informationen über Erdogan und die Türkei einfügen.</p>
+        <p>Zum Beispiel: Biografie von Erdogan, politische Entwicklungen in der Türkei, wirtschaftliche Situation usw.</p>
+    </main>
+    <footer>
+        <p>&copy; 2024 IhreWebsite.de</p>
+    </footer>
+</body>
+</html>
